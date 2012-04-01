@@ -321,7 +321,7 @@ a:hover {
   clear: both;
 }
 p {
-  margin: 0 0 9px;
+  margin: 0 0 12px;
   font-family: Garamond, sans-serif;
   font-size: 15px;
   line-height: 20px;
@@ -344,7 +344,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0;
+  margin: 16px 0 0 0;
   font-family: inherit;
   font-weight: bold;
   color: inherit;
@@ -3970,7 +3970,6 @@ a.thumbnail:hover {
   font-size: 60px;
   line-height: 1;
   color: inherit;
-  letter-spacing: -1px;
 }
 .hero-unit p {
   font-size: 18px;
