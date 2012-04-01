@@ -132,7 +132,7 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: 'Josefin Sans', Garamond, sans-serif;
+  font-family: Garamond, sans-serif;
   font-size: 13px;
   line-height: 18px;
   color: #333333;
@@ -322,8 +322,8 @@ a:hover {
 }
 p {
   margin: 0 0 9px;
-  font-family: 'Josefin Sans', Garamond, sans-serif;
-  font-size: 13px;
+  font-family: Garamond, sans-serif;
+  font-size: 15px;
   line-height: 20px;
   letter-spacing: 1.5px;
   text-indent: 10px;
@@ -608,7 +608,7 @@ input,
 button,
 select,
 textarea {
-  font-family: 'Josefin Sans', Garamond, sans-serif;
+  font-family: Garamond, sans-serif;
 }
 label {
   display: block;
@@ -2926,7 +2926,7 @@ input[type="submit"].btn.btn-mini {
 }
 .navbar-search .search-query {
   padding: 4px 9px;
-  font-family: 'Josefin Sans', Garamond, sans-serif;
+  font-family: Garamond, sans-serif;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
