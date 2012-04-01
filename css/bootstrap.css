@@ -361,6 +361,7 @@ h6 small {
 }
 h1 {
   font-size: 30px;
+  letter-spacing: 3px;
   line-height: 36px;
 }
 h1 small {
@@ -368,6 +369,7 @@ h1 small {
 }
 h2 {
   font-size: 24px;
+  letter-spacing: 2.4px;
   line-height: 36px;
 }
 h2 small {
@@ -376,6 +378,7 @@ h2 small {
 h3 {
   line-height: 27px;
   font-size: 18px;
+  letter-spacing: 1.8px;
 }
 h3 small {
   font-size: 14px;
