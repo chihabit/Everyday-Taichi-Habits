@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<div class="hero-unit">
+<section>
   <h1>Tai Chi within Everyday Activities</h1>
   <p>
     the 21-day chi habits
   </p>
-</div>
+</section>
 
 
 <section>

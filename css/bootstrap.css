@@ -321,7 +321,8 @@ a:hover {
   clear: both;
 }
 p {
-  margin: 0 0 12px;
+  margin: 0;
+  padding-bottom: 12px;
   font-family: Garamond, sans-serif;
   font-size: 15px;
   line-height: 20px;
@@ -344,7 +345,8 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 16px 0 0 0;
+  margin: 0;
+  padding-top: 16px;
   font-family: inherit;
   font-weight: bold;
   color: inherit;

@@ -1,7 +1,15 @@
 section:nth-child(odd) {
-  background-color: #e98043;
+  background-color: #fafafa;
 }
 
 section:nth-child(even) {
-  background-color: #eee;
+  background-color: #333;
+}
+
+section:nth-child(even) h3 {
+  color: #fafafa;
+}
+
+section:nth-child(even) p {
+  color: #fafafa;
 }
