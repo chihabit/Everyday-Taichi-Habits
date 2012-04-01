@@ -324,7 +324,9 @@ p {
   margin: 0 0 9px;
   font-family: 'Josefin Sans', Garamond, sans-serif;
   font-size: 13px;
-  line-height: 18px;
+  line-height: 20px;
+  letter-spacing: 1.5px;
+  text-indent: 10px;
 }
 p small {
   font-size: 11px;
