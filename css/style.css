@@ -1,7 +1,7 @@
-#cover {
+section:nth-child(odd) {
   background-color: #e98043;
 }
 
-.page {
+section:nth-child(even) {
   background-color: #eee;
 }
