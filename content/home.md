@@ -9,13 +9,13 @@ layout: default
   </p>
 </div>
 
-# Preface
+## Preface
 
 Humanity is challenged by what the World Health Organization (WHO) predicts by 2017, an epidemic of chronic life style illnesses – heart disease, hypertension, diabetes and obesity to mention a few.
 
 These illnesses can be prevented by managing one’s lifestyle with exercise, stress reduction and diet modification. However, solutions are stifled by a lifestyle burdened by time constraints, motivation and clear knowledge of what can be done.
 
-# Why I wrote the book
+## Why I wrote the book
 
 This book centers on Chi or life energy. It talks to busy people who have affinity for Tai Chi and Qigong and an inner resonance with being a Warrior for Well-Being.
 
