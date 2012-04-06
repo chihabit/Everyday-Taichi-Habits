@@ -16,7 +16,6 @@ body {
   font-family: 'Della Respira', Garamond, sans-serif;
   font-size: 15px;
   letter-spacing: 3px;
-  padding-top: 60px;
   line-height: 20px;
 }
 
@@ -34,6 +33,10 @@ h3 {
   font-size: 18px;
   padding: 8px 0;
   letter-spacing: 3px;
+}
+
+#content_columns {
+  padding-top: 60px;
 }
 
 .nano { height: 500px; }
