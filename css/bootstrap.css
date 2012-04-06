@@ -1859,15 +1859,15 @@ table .span24 {
 .dropdown-menu li > a:hover,
 .dropdown-menu .active > a,
 .dropdown-menu .active > a:hover {
-  color: #ffffff;
+  color: #fafafa;
   text-decoration: none;
-  background-color: #0088cc;
+  background-color: #111;
 }
 .dropdown.open {
   *z-index: 1000;
 }
 .dropdown.open .dropdown-toggle {
-  color: #ffffff;
+  color: #111;
   background: #ccc;
   background: rgba(0, 0, 0, 0.3);
 }
