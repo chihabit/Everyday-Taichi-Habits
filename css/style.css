@@ -21,7 +21,7 @@ body {
 }
 
 p {
-  padding-bottom: 15px;
+  padding: 0 20px 15px 0;
   font-family: 'Della Respira', Garamond, sans-serif;
   font-size: 16px;
   line-height: 27px;
