@@ -13,9 +13,27 @@
 }
 
 body {
+  font-family: 'Della Respira', Garamond, sans-serif;
   font-size: 15px;
   letter-spacing: 3px;
   padding-top: 60px;
+  line-height: 20px;
+}
+
+p {
+  padding-bottom: 15px;
+  font-family: 'Della Respira', Garamond, sans-serif;
+  font-size: 16px;
+  line-height: 27px;
+  letter-spacing: 2.7px;
+  text-align: justify;
+  text-indent: 30px;
+}
+
+h3 {
+  font-size: 18px;
+  padding: 8px 0;
+  letter-spacing: 3px;
 }
 
 .nano { height: 500px; }
