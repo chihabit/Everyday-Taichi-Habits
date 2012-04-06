@@ -17,3 +17,8 @@ body {
   letter-spacing: 3px;
   padding-top: 60px;
 }
+
+.nano { height: 500px; }
+.nano .content { padding: 20px; }
+.nano .pane { background: #ddd; }
+.nano .pane .slider { background: #555; }
