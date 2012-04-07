@@ -35,6 +35,11 @@ h3 {
   letter-spacing: 3px;
 }
 
+a > i {
+  vertical-align: bottom !important;
+  padding-bottom: 2px;
+}
+
 #content_columns {
   padding-top: 60px;
 }
