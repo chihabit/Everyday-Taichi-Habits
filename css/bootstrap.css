@@ -1871,6 +1871,9 @@ table .span24 {
   background: #ccc;
   background: rgba(0, 0, 0, 0.3);
 }
+.dropdown.open a.dropdown-toggle:hover {
+  background: #111;
+}
 .dropdown.open .dropdown-menu {
   display: block;
 }
