@@ -29,10 +29,31 @@ p {
   text-indent: 30px;
 }
 
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  padding: 8px 0;
+}
+
 h3 {
   font-size: 18px;
   padding: 8px 0;
   letter-spacing: 3px;
+}
+
+.note {
+  border: 1px solid #08c;
+  margin: 15px 50px 15px 30px;
+  padding: 15px;
+}
+
+ul {
+  list-style: circle;
+}
+
+.mpagination {
+  text-align: center;
+  font-size: 18px;
 }
 
 a > i {
