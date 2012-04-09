@@ -30,6 +30,7 @@ p {
 }
 
 h2 {
+  font-size: 21px;
   text-transform: uppercase;
   text-align: center;
   padding: 8px 0;
@@ -49,6 +50,15 @@ h3 {
 
 ul {
   list-style: circle;
+  padding-left: 10px;
+}
+
+ol {
+  padding-left: 15px;
+}
+
+li {
+  padding: 10px 0px;
 }
 
 .mpagination {
@@ -69,3 +79,7 @@ a > i {
 .nano .content { padding: 20px; }
 .nano .pane { background: #ddd; }
 .nano .pane .slider { background: #555; }
+
+blockquote {
+  font-style: italic;
+}
