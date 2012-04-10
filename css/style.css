@@ -1,6 +1,9 @@
 #book_title {
   margin-left: 20px;
   text-align: center;
+  position: fixed;
+  top: 60px;
+  left: 10px;
 }
 
 #book_title > h2 {
@@ -75,10 +78,13 @@ a > i {
   padding-top: 60px;
 }
 
+/* Sidebar */
+#content_columns > :first-child {
+  height: 20px;
+}
+
 .nano { height: 500px; }
 .nano .content { padding: 20px; }
-.nano .pane { background: #ddd; }
-.nano .pane .slider { background: #555; }
 
 blockquote {
   font-style: italic;
