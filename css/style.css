@@ -97,3 +97,8 @@ ul#contact_list {
 ul#contact_list ul {
   list-style: none;
 }
+
+.profile_image {
+  float: left;
+  margin: 0 15px 5px 0;
+}
