@@ -89,3 +89,11 @@ blockquote {
   font-style: italic;
   width: 100%;
 }
+
+ul#contact_list {
+  list-style: none;
+}
+
+ul#contact_list ul {
+  list-style: none;
+}
