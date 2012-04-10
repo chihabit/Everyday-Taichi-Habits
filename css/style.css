@@ -83,8 +83,7 @@ a > i {
   height: 20px;
 }
 
-.nano { height: 500px; }
-.nano .content { padding: 20px; }
+.content { padding: 0 0 20px 20px; }
 
 blockquote {
   font-style: italic;
