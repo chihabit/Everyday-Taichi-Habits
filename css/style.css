@@ -10,9 +10,8 @@
   padding: 0px;
 }
 
-.subtitle {
-  font-size: 15px;
-  letter-spacing: 2px;
+#book_title .author a {
+  color: #111;
 }
 
 body {
