@@ -1,19 +1,4 @@
-#book_title {
-  margin-left: 20px;
-  text-align: center;
-  position: fixed;
-  top: 60px;
-  left: 10px;
-}
-
-#book_title > h2 {
-  padding: 0px;
-}
-
-#book_title .author a {
-  color: #111;
-}
-
+/* Text styles */
 body {
   font-family: 'Della Respira', Garamond, sans-serif;
   font-size: 15px;
@@ -73,20 +58,54 @@ a > i {
   padding-bottom: 2px;
 }
 
-#content_columns {
-  padding-top: 60px;
-}
-
-/* Sidebar */
-#content_columns > :first-child {
-  height: 20px;
-}
-
-.content { padding: 0 0 20px 20px; }
-
 blockquote {
   font-style: italic;
   width: 100%;
+}
+
+/* Layout */
+#content_columns {
+  padding: 60px 80px 60px 380px;
+}
+
+#book_title {
+  text-align: center;
+  position: fixed;
+  z-index: -1;
+
+  top: 60px;
+  left: 50px;
+  width: 240px;
+}
+
+.nav-collapse.in {
+  background: #eee;
+  border-radius: 2px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.25);
+}
+
+/* Tablet portrait */
+@media (max-width: 767px) {
+  #content_columns {
+    padding: 20px;
+    padding-top: 0;
+  }
+
+  #book_title {
+    position: static;
+    margin: 20px auto;
+  }
+}
+
+
+/* Book title */
+
+#book_title > h2 {
+  padding: 0px;
+}
+
+#book_title .author a {
+  color: #111;
 }
 
 ul#contact_list {
